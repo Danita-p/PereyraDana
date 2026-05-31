@@ -150,5 +150,5 @@ fetch(url)
     <p> Desconocidos: ${desconocido} </p> 
     <p> El personaje con mas episodios es: ${masMenos[0].name} con ${masMenos[0].episode.length} episodios </p> 
     <p> El personaje con menos episodios es: ${masMenos[19].name} con ${masMenos[19].episode.length} episodios </p> 
-    <p> Las especies encontradas son: ${especiesUnicas.join(', ')}`
+    <p> Las especies encontradas son: ${especiesUnicas.join(', ')} `
 }); 
